@@ -1,0 +1,1 @@
+Esse projeto um aplicativo de que busca um filme pelo nome na api do tmdb e retorna o titulo original, descrição do filme, avaliações e a capa do filme
